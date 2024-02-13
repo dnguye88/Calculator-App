@@ -1,7 +1,6 @@
 //Calculator Functions
 
 const display = document.getElementById("display");
-const currentNumber = " ";
 
 function appendToDisplay(input) {
   display.value += input;
